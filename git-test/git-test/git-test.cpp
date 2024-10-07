@@ -6,5 +6,6 @@
 int main()
 {
 	char qwe[] = "Hello world";
+
 	std::cout << qwe << std::endl;
 }
