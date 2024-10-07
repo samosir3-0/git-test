@@ -7,6 +7,5 @@ using namespace std;
 
 int main()
 {
-	char qwe[] = "Hello world";
-	cout << qwe << endl;
+	cout << 1 << endl;
 }
