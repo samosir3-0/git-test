@@ -3,9 +3,10 @@
 
 #include <iostream>
 
+using namespace std;
+
 int main()
 {
 	char qwe[] = "Hello world";
-
-	std::cout << qwe << std::endl;
+	cout << qwe << endl;
 }
